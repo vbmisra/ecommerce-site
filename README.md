@@ -158,7 +158,7 @@ Your database should contain the following four models, including the requiremen
 
     * References the `Tag` model's `id`.
 
-### Associations
+### Associations - done
 
 You'll need to execute association methods on your Sequelize models to create the following relationships between them:
 
